@@ -1,0 +1,104 @@
+li {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color:#fff;
+}
+
+li a:hover{
+    color:#000;
+    border-bottom:solid;
+}
+
+.header{
+    height:90px;
+    background-color: #26d0c9;
+    margin:20px 40px;
+}
+
+.header-title{
+    font-size:36px;
+    color:#fff;
+    padding:20px 40px;
+    float:left;
+}
+
+.header1-list li{
+    float:left;
+    padding:33px 20px;
+    color:#fff;
+}
+
+.header2-list li{
+    float:right;
+    padding:33px 20px;
+
+}
+
+.content{
+    margin:40px 40px;
+}
+
+.image{
+    margin:0px 40px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: solid 1px;
+    padding: 0.5em;
+}
+
+.itiran, .add{
+    margin:40px 40px;
+    height: 90px;
+    height: 500px;
+}
+
+.itiran h1 , .add h1{ 
+    border-bottom:solid;
+}
+
+.menu{
+    border: solid;
+    height:auto;
+    width: auto;
+    margin:20px 20px;
+    border-color:black;
+    float: left;
+}
+
+.menu h1{
+    font-size: 16px;
+    border-bottom: solid;
+    float: left;
+}
+
+.us{
+    padding: 0px 40px 20px 40px;
+    float: right;
+}
+
+#nouser{
+    margin:40px 40px;
+}
+
+#commentadd{
+    color: black;
+    float: right;
+    margin:10px 10px;   
+}
+
+#commentadd a:hover{
+    border-bottom:solid;
+}

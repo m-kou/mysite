@@ -1,0 +1,23 @@
+.content-list-item {
+position:relative;
+cursor:pointer;
+text-align: left;
+}
+
+.content-list-item span {
+position:absolute;
+top:0;
+right:0px;
+color:#ccc;
+padding-right: 10px;
+}
+
+.answer {
+font-size: 12px;
+padding: 5px 0px;
+display:none;
+}
+
+li {
+    list-style: none;
+}
